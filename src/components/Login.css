@@ -1,0 +1,44 @@
+.container{
+    margin-left: 390px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+     width: auto;
+     height: auto;
+     width: 400px;
+     height: 100vh;
+    
+   }
+.form{
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+.form h5{
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+.input1{
+    width: 300px;
+    margin-bottom: 30px;
+}
+.input2{
+    width: 300px;
+    margin-top: -50px;
+}
+.input3{
+    width: 300px;
+    margin-top: 20px;
+}
+.btn{
+    margin-left: 50px;
+}
+.btn2{
+    margin-left:-20px ;
+}
+.btn1{
+    margin-right: 25px;
+}
+.label{
+    font-size: 30px;
+}
